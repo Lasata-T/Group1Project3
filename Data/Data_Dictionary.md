@@ -1,4 +1,5 @@
 # Data Dictionary 
+*Note: These are features so there was no variable type attributed to the data. The variable types below are in reference to the probability results.
 |Variable Name|Variable Type|Description|
 | ------------- | ------------- |-------------|
 |ImageName|`pandas` Series / String|The name of the image.|
